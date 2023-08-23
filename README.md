@@ -1,4 +1,4 @@
-### Oii eu sou Eliane Cordeiro, estudante de ADS e leitora nas horas vagas!
+### Oii, eu sou Eliane, estudante de ADS e leitora nas horas vagas!
 - Estudando Java e POO // I’m currently learning Java and OOP
 
 ##
