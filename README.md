@@ -1,5 +1,7 @@
 ### Oii, eu sou Eliane, estudante de ADS e leitora nas horas vagas!
-- Estudando Java e POO // I’m currently learning Java and OOP
+- Estagio na área de DevOps e Cloud!
+- Curto Java e Spring Boot e tento estudá-los quando possível.
+- As nuvens que mais tenho estudado ultimamente é a GCP e a AWS!
 
 ##
 ![ElianeCordeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElianeCordeiro&show_icons=true&theme=moltack)
